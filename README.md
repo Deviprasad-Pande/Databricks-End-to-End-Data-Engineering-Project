@@ -23,3 +23,6 @@ Screenshots:
 <img width="1915" height="848" alt="image" src="https://github.com/user-attachments/assets/590d97f7-e057-407b-a9f4-6d047a4d776c" />
 
 <img width="1908" height="854" alt="image" src="https://github.com/user-attachments/assets/0a3c5ec2-8eff-4f4f-bfea-9b0dd57ff297" />
+
+<img width="1915" height="741" alt="image" src="https://github.com/user-attachments/assets/b58e5160-2e18-4c65-b7b2-9762433fd8b3" />
+
