@@ -13,3 +13,13 @@ Excited to share my latest Azure Databricks Project Architecture, which brings t
 🔹 Star Schema using PySpark – Optimized for analytics and reporting
 🔹 Databricks Unity Catalog – Centralized governance and lineage
 🔹 End-to-End Pipeline Integration – Scalable, automated data workflow
+
+Architecture Diagram :
+<img width="1408" height="736" alt="Gemini_Generated_Image_wl7rrzwl7rrzwl7r" src="https://github.com/user-attachments/assets/97a5dedd-a553-449f-be61-4cd94371da40" />
+
+Screenshots:
+<img width="1915" height="839" alt="image" src="https://github.com/user-attachments/assets/69f84c38-d594-4f9f-a753-82585a7a619c" />
+
+<img width="1915" height="848" alt="image" src="https://github.com/user-attachments/assets/590d97f7-e057-407b-a9f4-6d047a4d776c" />
+
+<img width="1908" height="854" alt="image" src="https://github.com/user-attachments/assets/0a3c5ec2-8eff-4f4f-bfea-9b0dd57ff297" />
